@@ -1,0 +1,24 @@
+{
+  "name": "material-ui-form-components",
+  "version": "1.0.1",
+  "description": "material ui form components for reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekCode/ReactMaterialUiFormComponents.git"
+  },
+  "keywords": [
+    "react",
+    "material-ui",
+    "form"
+  ],
+  "author": "abhishek singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbhishekCode/ReactMaterialUiFormComponents/issues"
+  },
+  "homepage": "https://github.com/AbhishekCode/ReactMaterialUiFormComponents#readme"
+}
